@@ -1,0 +1,7 @@
+keepup {
+    number x;
+    x is 10;
+    check (x) {
+        getout x;
+    }
+} done

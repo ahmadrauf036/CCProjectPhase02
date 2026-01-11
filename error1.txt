@@ -1,0 +1,4 @@
+keepup {
+    number x
+    x is 10;
+} done
